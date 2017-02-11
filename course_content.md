@@ -1,9 +1,9 @@
 [![N|Solid](http://www.tutoslive.com/img/logo_caption.png)](https://tutoslive.com)
 ```
 Attend demo class on Wednesday 15th Feb 2017 at 830 PM IST.
-Interested candidates email to sagar@tutoslive.com for the demo class link
+Interested candidates email to podilapu.sagar@gmail.com for the demo class link
 ```
-### Full stack development with HTML,CSS,JavaScript, PHP and MySql
+### Learn FullStack development in 6 weeks for real
 Starts: **Monday, Feb 20th, 2017** Duration: **6 weeks**
 Time: **730 AM - 900 AM** and **830 PM - 1000 PM** Monday - Saturday IST
 Fee: ~~15000~~ **13000 INR** (7000 INR + 6000 INR) - __2 installments__
@@ -60,7 +60,6 @@ Project: **Student Management Portal**
 - Project continuation
 - QnA
 - How to go further from here
-- **Quiz#3**
 
 #### Day#10 - Introduction to JavaScript
 - What is JavaScript and Why do we use?
@@ -82,7 +81,7 @@ Project: **Student Management Portal**
 - Function Types and their uses
 - Revising Day#10, Day#11
 - **Assignment#9**
-- **Quiz#4**
+- **Quiz#3**
 
 #### Day#13 - JavaScript built-in functions
 - String functions
@@ -101,7 +100,7 @@ Project: **Student Management Portal**
 - setTimeout and setInterval
 - events
 - **Assignment#12**
-- **Quiz#5**
+- **Quiz#4**
 
 #### Day#16 End of JavaScript
 - Bootstrap JavaScript
@@ -113,13 +112,13 @@ Project: **Student Management Portal**
 - jQuery Methods
 - jQuery Events
 - **Assignment#13**
-- **Quiz#6**
 
 #### Day#18 - jQuery Validations
 - Why validations?
 - How to use validations?
 - validating form data using jQuery validations
 - **Assignment#14**
+- **Quiz#5**
 
 #### Day#19 Introduction to PHP
 - Php Installation and setup
@@ -129,36 +128,72 @@ Project: **Student Management Portal**
 #### Day#20 PHP continued
 - PHP constants
 - PHP datatypes
+- PHP operators
 - **Assignment#15**
 
-#### Day#21 PHP control structures
+#### Day#21 PHP control structures and functions
+- if, if else, nested if and switch
+- while, for and foreach
+- **Assignment#16**
+- **Quiz#6**
 
-#### Day#22 PHP functions
+#### Day#22 PHP string, array and date functions
+- String functions in PHP
+- Array functions in PHP
+- Date formatting in PHP
+- **Assignment#17**
 
-#### Day#23
+#### Day#23 PHP include, $_POST and $_GET
+- include, require
+- $_GET
+- $_POST
+- Processing forms using PHP
+- **Assignment#18**
 
-#### Day#24
+#### Day#24 Introduction to MySql
+- Explaining database
+- MySQl datatypes
+- Introduction to phpmyadmin
+- Normalization
+- **Assignment#19**
+- **Quiz#7**
 
-#### Day#25
+#### Day#25 MySQL CRUD
+- SELECT query
+- INSERT query
+- UPDATE query
+- DELETE query
+- MySQL joins
+- **Assignment#20**
 
-#### Day#26
+#### Day#26 Introduction to PDO
+- PHP database object
+- PDO examples
+- **Assignment#21**
 
-#### Day#27
+#### Day#27 PHP file functions and $_FILE
+- handling files in PHP
+- Uploading files and process a file
+- **Assignment#22**
+- **Quiz#8**
 
-#### Day#28
+#### Day#28 Cookies and Sessions
+- $_COOKIE
+- $_SESSION
+- login example
+- **Assignment#23**
 
-#### Day#29
+#### Day#29 PHP OOPS
+- classes and objects
+- encapsulation
+- $this
+- **Assignment#24**
+- **Quiz#9**
 
-#### Day#30
-
-#### Day#31
-
-#### Day#32
-
-#### Day#33
-
-#### Day#34
-
-#### Day#35
-
-#### Day#36
+#### Day#30 Project
+#### Day#31 Project continues
+#### Day#32 Project continues
+#### Day#33 Project continues
+#### Day#34 Project continues
+#### Day#35 Project continues
+#### Day#36 End of the course
