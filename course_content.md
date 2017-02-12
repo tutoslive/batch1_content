@@ -1,16 +1,30 @@
 [![N|Solid](http://www.tutoslive.com/img/logo_caption.png)](https://tutoslive.com)
 ```
 Attend demo class on Wednesday 15th Feb 2017 at 830 PM IST.
-Interested candidates email to podilapu.sagar@gmail.com for the demo class link
 ```
-### Learn FullStack development in 6 weeks for real
-- Starts: **Monday, Feb 20th, 2017** Duration: **6 weeks**
-- Time: Monday - Saturday (Indian Standard Time)
-    - **730 AM - 900 AM** or
-    - **900 PM - 1030 PM**
+[Fill this form to get the demo link](https://goo.gl/forms/qrDFFKTaGQadzorj1)
+### Build Student Management Web Portal within 6 weeks - `LIVE` Class
+***
+- Trainer: **Sagar Podilapu**
+    - [Linkedin](https://in.linkedin.com/in/sagarpodilapu)
+    - Mobile/Whatsapp: 8105416760
+    - Email: podilapu.sagar@gmail.com
+    - Slack: https://tutoslive.slack.com/
+- Starts: **Monday, Feb 20th, 2017**
+- Duration: **6 weeks**
+- Time: [Monday - Saturday]
+    - **730 AM - 900 AM**  (Indian Standard Time) _**or**_
+    - **900 PM - 1030 PM**  (Indian Standard Time)
 - Fee: ~~15000~~ **13000 INR**
-- Project: **Student Management Portal**
+- Live Project: **Student Management Portal**
 - Available: Only 6 seats per course
+- Technologies: **HTML, CSS, JavaScript, jQuery, AJAX, PHP and MySQL**
+- Free **career** advice and job search
+- Attend from **anywhere**
+- **No prior knowledge of programming need**
+- 12x7 programming support on **slack**
+- 25 Assignments and 9 Quizes for your learning hunger
+- [Fill this form to get the demo link](https://goo.gl/forms/qrDFFKTaGQadzorj1)
 ## Course Structure:
 
 #### Day#1 - Introduction to web design and development.
@@ -203,3 +217,4 @@ Interested candidates email to podilapu.sagar@gmail.com for the demo class link
 #### Day#34 Project continues
 #### Day#35 Project continues
 #### Day#36 End of the course
+[Fill this form to get the demo link](https://goo.gl/forms/qrDFFKTaGQadzorj1)
