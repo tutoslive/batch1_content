@@ -25,6 +25,7 @@ Attend demo class on Wednesday 15th Feb 2017 at 830 PM IST.
 - 12x7 programming support on **slack**
 - 25 Assignments and 9 Quizes for your learning hunger
 - [Fill this form to get the demo link](https://goo.gl/forms/qrDFFKTaGQadzorj1)
+
 ## Course Structure:
 
 #### Day#1 - Introduction to web design and development.
