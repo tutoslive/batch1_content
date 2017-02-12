@@ -4,10 +4,13 @@ Attend demo class on Wednesday 15th Feb 2017 at 830 PM IST.
 Interested candidates email to podilapu.sagar@gmail.com for the demo class link
 ```
 ### Learn FullStack development in 6 weeks for real
-Starts: **Monday, Feb 20th, 2017** Duration: **6 weeks**
-Time: **730 AM - 900 AM** and **830 PM - 1000 PM** Monday - Saturday IST
-Fee: ~~15000~~ **13000 INR** (7000 INR + 6000 INR) - __2 installments__
-Project: **Student Management Portal**
+- Starts: **Monday, Feb 20th, 2017** Duration: **6 weeks**
+- Time: Monday - Saturday (Indian Standard Time)
+    - **730 AM - 900 AM** or
+    - **900 PM - 1030 PM**
+- Fee: ~~15000~~ **13000 INR**
+- Project: **Student Management Portal**
+- Available: Only 6 seats per course
 ## Course Structure:
 
 #### Day#1 - Introduction to web design and development.
@@ -190,8 +193,11 @@ Project: **Student Management Portal**
 - **Assignment#24**
 - **Quiz#9**
 
-#### Day#30 Project
-#### Day#31 Project continues
+#### Day#30 AJAX
+- Use jQuery AJAX
+- **Assignment#25**
+
+#### Day#31 Project
 #### Day#32 Project continues
 #### Day#33 Project continues
 #### Day#34 Project continues
