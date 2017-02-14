@@ -50,6 +50,6 @@ Slack is a great tool for communication between groups and individuals. At Tutos
 - Download slack desktop and mobile app [here](https://slack.com/downloads)
 
 #### HTML program
-I wanted to show a small demo of a HTML program. In fact, it is a small javascript program and I call it as 'Chase the rabbit' and it will be fun. I will also explain how it is done.
+I wanted to show a small demo of a HTML program. In fact, it is a small javascript program and I call it as '**_Chasing Rabbit_**' and it will be fun. I will also explain how it is done.
 
 Please do not forget to register for the demo at [Fill this form to get the demo link](https://goo.gl/forms/qrDFFKTaGQadzorj1) (Ignore if you have already filled it)
