@@ -27,7 +27,6 @@ Attend demo class on Wednesday 15th Feb 2017 at 830 PM IST.
 - [Fill this form to get the demo link](https://goo.gl/forms/qrDFFKTaGQadzorj1)
 
 ## Course Structure:
-
 #### Day#1 - Introduction to web design and development.
 - How web design and development works
 - Latest trends in the current market
@@ -64,7 +63,7 @@ Attend demo class on Wednesday 15th Feb 2017 at 830 PM IST.
 - **Assignment#5**
 - **Quiz#2**
 
-### Day#7 - Bootstrap Frontend Framework
+#### Day#7 - Bootstrap Frontend Framework
 - Introduction to bootstrap
 - Bootstrap UI elements
 
